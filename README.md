@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m working as an Embedded System Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as an Embedded System Engineer.
 
 - :seedling: Interested in Embedded System and Artificial Intelligence
 
